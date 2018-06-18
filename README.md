@@ -2,7 +2,7 @@
 
 ### Description:
 
-Custom theme built for Mildenhall Cycling Club. Still in progress..
+Custom theme built for Mildenhall Cycling Club designed with the club colours and using Underscores as a 'bare bones' template. Still in progress..
 
 ### Built with:
 
